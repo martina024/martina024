@@ -14,7 +14,7 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **martina.varghese024@gmail.com**
-- My Portfolio - **Martina_Varghese_Resume.pdf**
+- My Portfolio - <a src="Martina_Varghese_Resume.pdf">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
