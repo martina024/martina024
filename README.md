@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Martina Varghese</h1>
 <h3 align="center">An Aspiring MERN Developer</h3>
-About me-:Well-qualified Full Stack Developer familiar with a wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of the process with ease. Collaborative team player with excellent technical abilities.
+<p><b>About me-:</b> Well-qualified Full Stack Developer familiar with a wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of the process with ease. Collaborative team player with excellent technical abilities.</p>
+
 
 
 <img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" />
