@@ -1,4 +1,4 @@
-[![MasterHead]![github-header-image](https://user-images.githubusercontent.com/107464455/216858910-89ab2bff-4012-4ef2-a842-a25a8eda55ed.png)
+![github-header-image](https://user-images.githubusercontent.com/107464455/216858910-89ab2bff-4012-4ef2-a842-a25a8eda55ed.png)
 
 
 
