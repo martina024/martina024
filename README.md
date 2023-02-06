@@ -4,6 +4,8 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Martina Varghese</h1>
 <h3 align="center">An Aspiring MERN Developer</h3>
+<p> Well-qualified Full Stack Developer familiar with a wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of the process with ease. Collaborative team player with excellent technical abilities.</p>
+<img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" />
 
 🔭 I’m currently working on Full Stack Website<br>👯 I’m looking to collaborate on MERN Projects<br>🌱 I’m currently learning DSA<br>💬 Ask me about MERN<br>
  📫 How to reach me **martina.varghese024@gmail.com**
@@ -11,8 +13,8 @@
 
 
 - **<a href="https://martina024.github.io/">My Portfolio</a>**
-<p><b>About me-:</b> Well-qualified Full Stack Developer familiar with a wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of the process with ease. Collaborative team player with excellent technical abilities.</p>
-<img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" />
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/martinavarghese) 
