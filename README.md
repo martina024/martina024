@@ -21,7 +21,7 @@
 
 - **<a href="https://martina024.github.io/">My Portfolio</a>**
 
-- **<a href="https://www.linkedin.com/in/martinavarghese">LinkedIn</a>**
+<!-- - **<a href="https://www.linkedin.com/in/martinavarghese">LinkedIn</a>** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
