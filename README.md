@@ -10,10 +10,10 @@
 
 🔭 I’m currently working on Full Stack Website<br>👯 I’m looking to collaborate on MERN Projects<br>🌱 I’m currently learning DSA<br>💬 Ask me about MERN<br>
  📫 How to reach me **martina.varghese024@gmail.com**
- - **<a target="_blank" href="https://drive.google.com/file/d/1WbqbTDISRSHejj4ctPoLnoaZJc5MFNYO/view?usp=share_linkf">My Resume</a>**
+ - **<a target="_blank" href="https://drive.google.com/file/d/152XopxoiCDbfNiVq5vQgwoSEUxM6RcHc/view?usp=sharing">My Resume</a>**
 
 
-- **<a href="https://martina024.github.io/">My Portfolio</a>**
+- **<a target="_blank" href="https://martina024.github.io/">My Portfolio</a>**
 
 
 
